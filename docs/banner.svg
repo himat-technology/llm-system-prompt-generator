@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">LLM System Prompt Generator &amp; Optimizer by HiMat Technology</title>
+  <desc id="desc">Design, structure, validate, and test production-grade AI system prompts with 100% browser-local privacy.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="45%" stop-color="#7c3aed"/>
+      <stop offset="75%" stop-color="#db2777"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.15" cy="0.2" r="0.5">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.9" cy="0.9" r="0.55">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#glow1)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#glow2)"/>
+
+  <!-- decorative braces -->
+  <text x="1010" y="300" font-family="Consolas, Menlo, monospace" font-size="260" font-weight="700" fill="#ffffff" fill-opacity="0.08">{ }</text>
+
+  <!-- logo tile -->
+  <rect x="72" y="64" width="64" height="64" rx="16" fill="#ffffff" fill-opacity="0.95"/>
+  <text x="104" y="107" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="28" font-weight="700" fill="#6d28d9">{ }</text>
+  <text x="152" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">HiMat Technology</text>
+  <text x="152" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" fill-opacity="0.85">Free AI Engineering Tools</text>
+
+  <text x="72" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff">LLM System Prompt Generator &amp; Optimizer</text>
+  <text x="72" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#ffffff" fill-opacity="0.92">Design, structure, validate, and test production-grade AI system prompts.</text>
+
+  <!-- pills -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">
+    <rect x="72" y="278" width="222" height="38" rx="19" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.35"/>
+    <circle cx="94" cy="297" r="6" fill="#34d399"/>
+    <text x="108" y="303">100% Browser-Local</text>
+    <rect x="308" y="278" width="182" height="38" rx="19" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.35"/>
+    <circle cx="330" cy="297" r="6" fill="#22d3ee"/>
+    <text x="344" y="303">XML &amp; Markdown</text>
+    <rect x="504" y="278" width="196" height="38" rx="19" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.35"/>
+    <circle cx="526" cy="297" r="6" fill="#fbbf24"/>
+    <text x="540" y="303">Safety Guardrails</text>
+    <rect x="714" y="278" width="202" height="38" rx="19" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.35"/>
+    <circle cx="736" cy="297" r="6" fill="#f472b6"/>
+    <text x="750" y="303">{{ }} Live Variables</text>
+  </g>
+</svg>
